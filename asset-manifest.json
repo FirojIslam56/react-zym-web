@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-zym-web/static/css/main.247a29d0.css",
+    "main.js": "/react-zym-web/static/js/main.1f062ff0.js",
+    "static/js/787.8dadaa2d.chunk.js": "/react-zym-web/static/js/787.8dadaa2d.chunk.js",
+    "static/media/hero_image.png": "/react-zym-web/static/media/hero_image.6067da7287b52c7b03b0.png",
+    "static/media/t-image3.jpg": "/react-zym-web/static/media/t-image3.f21fa006395304bd02ba.jpg",
+    "static/media/calories.png": "/react-zym-web/static/media/calories.de0356b33744fef01719.png",
+    "static/media/flogo.png": "/react-zym-web/static/media/flogo.3314ac07413bba96ab11.png",
+    "static/media/t-image2.jpg": "/react-zym-web/static/media/t-image2.4811e2e5bc0517b3fd1b.jpg",
+    "static/media/heart.png": "/react-zym-web/static/media/heart.fd7cbb8ef61bb393aa70.png",
+    "static/media/image2.png": "/react-zym-web/static/media/image2.2f659417f56c93308d9c.png",
+    "static/media/t-image1.jpg": "/react-zym-web/static/media/t-image1.1b47b94b71d6464d67a3.jpg",
+    "static/media/hero_image_back.png": "/react-zym-web/static/media/hero_image_back.9f54bfba33048f4ca688.png",
+    "index.html": "/react-zym-web/index.html",
+    "main.247a29d0.css.map": "/react-zym-web/static/css/main.247a29d0.css.map",
+    "main.1f062ff0.js.map": "/react-zym-web/static/js/main.1f062ff0.js.map",
+    "787.8dadaa2d.chunk.js.map": "/react-zym-web/static/js/787.8dadaa2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.247a29d0.css",
+    "static/js/main.1f062ff0.js"
+  ]
+}
